@@ -1,0 +1,43 @@
+LICENSE OVERRIDE NOTICE
+-----------------------
+
+Project: Noreum Execution Client (noreum-geth)
+Date: 2025-11-12
+Maintainer: Noreum Core Team <sign@noreum.org>
+
+1. BASE LICENSE (UPSTREAM)
+   This project derives portions of its source code from:
+     - go-ethereum (Geth)
+       Licensed under the GNU Lesser General Public License v3.0 (LGPL-3.0)
+       © 2013–2025 The go-ethereum Authors
+
+2. NOREUM LICENSE POLICY
+   Modifications, reengineering, and all new code introduced under the
+   "Noreum" namespace are distributed under the GNU General Public License
+   v3.0 (GPL-3.0).
+
+   The GPL license applies to all Noreum-specific modules, build scripts,
+   configuration files, and manifests.
+
+3. COMPATIBILITY STATEMENT
+   The combination of LGPL-3.0 (from Geth) and GPL-3.0 (from Noreum)
+   is legally compatible, as the GPL-3.0 satisfies the LGPL’s derivative
+   licensing requirements (Section 3 of the LGPL).
+
+   This ensures:
+     - Legal redistribution of binaries and modified versions
+     - Preservation of open-source guarantees
+     - Full acknowledgment of upstream authorship
+
+4. PRACTICAL INTERPRETATION
+   - Any external contributor merging code into this repository implicitly
+     agrees to release their contributions under GPL-3.0.
+   - The resulting binaries and libraries (e.g., noreum-geth) are therefore
+     covered by GPL-3.0.
+   - All attributions to Geth and its authors are retained and visible in
+     NOTICE.txt.
+
+5. CONTACT
+   For legal or licensing inquiries:
+     Noreum Foundation Legal Office
+     Email: legal@noreum.org
