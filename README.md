@@ -9,7 +9,7 @@ a modern, EVM-compatible Layer 1 blockchain built from a deeply audited and refa
 
 This client powers the Noreum network’s core execution logic, ensuring stability, speed, and compatibility with decentralized consensus clients such as noreum-beacon (fork of Prysm).
 
-🔧 Technical Details
+ Technical Details
 Field	Value
 Chain ID	1177
 Network Name	Noreum Mainnet
