@@ -1,0 +1,21 @@
+Copyright © 2025
+Noreum Core Team and Contributors
+All Rights Reserved.
+
+This repository contains original modifications and reengineering work 
+based on go-ethereum (Geth), released under LGPL-3.0.
+
+All derivative works under the Noreum namespace are distributed under 
+GNU General Public License v3.0 (GPL-3.0).
+
+You are free to:
+  - Use, study, and modify this software
+  - Distribute modified versions, provided you preserve the same license terms
+  - Credit Noreum and Geth authors in derivative works
+
+Commercial or closed-source redistribution of modified Noreum binaries 
+requires explicit written permission from:
+  Noreum Foundation <legal@noreum.org>
+
+Fingerprint for official build verification:
+  1630 2607 60FF 2811 C5BA 73B1 4763 88C3 965F CDFF
