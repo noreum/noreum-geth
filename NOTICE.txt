@@ -1,0 +1,19 @@
+NOREUM EXECUTION CLIENT (NOREUM-GETH)
+-------------------------------------
+
+This software includes and modifies components from:
+
+  - go-ethereum (Geth)
+    Copyright (c) 2013-2025 The go-ethereum Authors
+    Licensed under the GNU Lesser General Public License v3.0
+    https://github.com/ethereum/go-ethereum
+
+Modifications, branding, and build system changes are made and maintained by:
+
+  - Noreum Core Team
+    © 2025 Noreum Foundation. All Rights Reserved.
+    Contact: sign@noreum.org
+
+This notice is provided in compliance with Section 4 of the LGPLv3, 
+which requires acknowledgment of original authorship when distributing 
+derivative works.
