@@ -1,3 +1,5 @@
+[![Verified by Noreum Cold Key](https://img.shields.io/badge/Verified%20by-Noreum%20Cold%20Key-gold?style=flat-square)](https://github.com/noreum/noreum-geth)
+
 # noreum-geth
 Noreum Execution Client — a customized Ethereum Geth fork optimized for the Noreum Mainnet (chain ID 1177), built for speed, security, and modular consensus integration.
 # Noreum Execution Client (noreum-geth)
